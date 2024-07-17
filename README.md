@@ -1,2 +1,2 @@
-# Luigi-Engine
-A Psych Fork Made Without Source (like most of the things i work on)
+# Luigi Engine (Beta)
+Luigi Engine (aka MarioEngine-x-Psych) is a Psych Fork heavaly inspired by Unkown Engine
