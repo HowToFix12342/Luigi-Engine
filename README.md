@@ -9,7 +9,7 @@ Luigi Engine (aka MarioEngine-x-Psych) is a Psych Engine (Mod/Engine) heavaly in
 - And More!
 
 # How does it work?
-Unlike your typical engine, it is a mod folder that acts as a Back-End for Psych Engine
+Unlike your typical engine, it is a mod folder that acts as a Back-End for Psych Engine (however in the full release there may be an exclusive front-end for it)
 That means all mods are Psych Engine Compatible! Most psych ports/mods should work!
 
 # Q&A
